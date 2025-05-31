@@ -4,7 +4,7 @@
 ## 💡 Skills
   **Languages:** Java, C/C++, Python, SQL, VHDL
 
-  **Tools:** Linux, Spring Boot, OpenGL
+  **Tools:** Linux, Spring Boot, OpenGL, OpenCV
 
   **Soft Skills:** Critical Thinking, Teamwork, Attention to Detail
 
